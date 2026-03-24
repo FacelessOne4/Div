@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} body{
+    font-family: sans-serif;
+    padding: 20px;
+}
+.container-pai{
+    background-color: #d3d3d3;
+    padding: 20px;
+    border: 2px solid #a9a9a9;
+    margin-bottom: 20px;
+
+}
+.caixa-filha-1{
+    background-color: #add8e6;
+    padding: 15px;
+    border: 1px solid #87ceeb;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.caixa-filha-2{
+    background-color: #90ee90;
+    padding: 15px;
+    border: 1px solid #3cb371;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.caixa-neta{
+    background-color: #fdd5b1;
+    color: #a0522d;
+    padding: 10px;
+    border: 1px dashed #d2691e;
+    margin-top: 10px;
+}

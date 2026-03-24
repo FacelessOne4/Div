@@ -57,3 +57,13 @@ aside{
     padding: 2rem;
     min-width: 250px;
 }
+
+footer{
+    background: #000000;
+    color:white;
+    text-align: center;
+    padding: 1.5rem;
+}
+.subtitulo{
+    color: #0056b3; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
